@@ -84,6 +84,8 @@ git_sparse_clone master https://github.com/linkease/nas-packages network/service
 # iStore
 git_sparse_clone main https://github.com/linkease/istore-ui app-store-ui
 git_sparse_clone main https://github.com/linkease/istore luci
+git_sparse_clone master https://github.com/kenzok8/openwrt-packages quickstart
+git_sparse_clone master https://github.com/kenzok8/openwrt-packages luci-app-quickstart
 
 # 在线用户
 git_sparse_clone main https://github.com/haiibo/packages luci-app-onliner
