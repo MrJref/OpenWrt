@@ -78,6 +78,9 @@ git clone --depth=1 https://github.com/ximiTech/msd_lite package/msd_lite
 # Alist
 git clone --depth=1 https://github.com/sbwml/luci-app-alist package/luci-app-alist
 
+# sms-tools
+git clone --depth=1 https://github.com/4IceG/luci-app-sms-tool package/luci-app-sms-tool
+
 # DDNS.to
 git_sparse_clone main https://github.com/linkease/nas-packages-luci luci/luci-app-ddnsto
 git_sparse_clone master https://github.com/linkease/nas-packages network/services/ddnsto
