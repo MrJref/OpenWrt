@@ -41,7 +41,7 @@ git_sparse_clone openwrt-18.06 https://github.com/immortalwrt/luci applications/
 # git_sparse_clone master https://github.com/syb999/openwrt-19.07.1 package/network/services/msd_lite
 
 # MosDNS
-git_sparse_clone https://github.com/sbwml/luci-app-mosdns mosdns
+git_sparse_clone v5 https://github.com/sbwml/luci-app-mosdns mosdns
 git clone --depth=1 https://github.com/sbwml/luci-app-mosdns package/luci-app-mosdns
 
 # 科学上网插件
